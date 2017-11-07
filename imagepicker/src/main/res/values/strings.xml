@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImagePicker</string>
+    <string name="choose_an_option">Choose an option</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="camera_not_available">Camera not available</string>
+</resources>
