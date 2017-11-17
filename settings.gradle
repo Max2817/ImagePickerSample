@@ -1,1 +1,2 @@
 include ':app', ':imagepicker'
+project(':imagepicker').projectDir = new File(settingsDir, '/imagepicker')
